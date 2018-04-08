@@ -5,11 +5,11 @@ public class Actions {
 
 	public static void accept(JSONObject obj)
 	{
-		System.out.println("method1");
+		System.out.println(obj.toString());
 	}
 	public static void reject(JSONObject obj)
 	{
-		System.out.println("method2");
+		System.out.println(obj.toString());
 	}
 	public static void method3(JSONObject obj)
 	{
