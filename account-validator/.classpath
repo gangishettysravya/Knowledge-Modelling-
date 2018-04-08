@@ -2,15 +2,24 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+<<<<<<< HEAD
+=======
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/pranithreddy/Documents/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar">
+	<classpathentry kind="lib" path="/home/sravya/eclipse-workspace/Libraries/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar">
+>>>>>>> branch 'master' of https://github.com/pranith563/Knowledge-Modelling-.git
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/sravya/eclipse-workspace/Libraries/java-json.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="/Users/pranithreddy/Desktop/6/DataModeling/knowledgeModeling/apache-tomcat-8.5.29/lib/servlet-api.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
@@ -21,5 +30,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+=======
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+>>>>>>> branch 'master' of https://github.com/pranith563/Knowledge-Modelling-.git
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
